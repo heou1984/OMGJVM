@@ -1,6 +1,6 @@
-package org.omg.bean
+package org.omg.bean;
 
-public Class Base{
+public class Base{
 
 	protected Long _id;
 
