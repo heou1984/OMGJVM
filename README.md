@@ -1,19 +1,34 @@
 Showcase project for JVM language, such as java, scala, groovy.
 
 For now use maven to manage project.
-
-Task 1:
-	Try to integrate spring with java and scala
-Task 2:
-	Unit test java & scala code
-Task 3:
-	Integrate hibernate || jpa
-Task 4:
-	Intergate shiro with java & scala
-Task 5:
-	(1) intergate springmvc with scala & java
-	(2) using play...if use play will remove spring & hibernate || jpa
-Task 6:
-	Using jetty provide service
-Task 7:
-	Thinking whether need to move gradle?
+<ul>
+<li>Task 1:</br>
+Try to integrate spring with java and scala
+</li>
+<li>
+Task 2:</br>
+Unit test java & scala code
+</li>
+<li>
+Task 3:</br>
+Integrate hibernate || jpa
+</li>
+<li>
+Task 4:</br>
+Intergate shiro with java & scala
+</li>
+<li>
+Task 5:</br>
+(1) intergate springmvc with scala & java</br>
+(2) using play...if use play will remove spring & 
+hibernate || jpa</br>
+</li>
+<li>
+Task 6:</br>
+Using jetty provide service
+</li>
+<li>
+Task 7:</br>
+Thinking whether need to move gradle?
+</li>
+</ul>
